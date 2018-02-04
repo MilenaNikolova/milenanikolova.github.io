@@ -2,7 +2,7 @@
  {
   "id":1,
   "text":"Chop chop!",
-  "image":"/images/chop.pmg"
+  "image":"/images/chop.png"
  },
  {
   "id":2,
@@ -42,7 +42,7 @@
  {
   "id":9,
   "text":"No excuses!",
-  "image":"/image/blah.png"
+  "image":"/images/blah.png"
  },
  {
   "id":10,
