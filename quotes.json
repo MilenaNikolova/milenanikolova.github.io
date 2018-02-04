@@ -11,7 +11,7 @@
  },
  {
   "id":3,
-  "text":"Make it work!",
+  "text":"This worries me...",
   "image":"/images/makeitwork.png"
  },
  {
@@ -32,7 +32,7 @@
  {
   "id":7,
   "text":"Ship it!",
-  "image":"/images/ship-it"
+  "image":"/images/ship-it.png"
  },
  {
   "id":8,
