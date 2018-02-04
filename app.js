@@ -29,7 +29,6 @@ function showQuote(quote){
 
   //Load the new quote
   $("#quote").html(quote.text);
-  console.log('Quote '+quote.id+' Added! : ' + Date.now());
 
   //Load the new image
   var img = document.createElement("IMG");
@@ -41,8 +40,6 @@ function showQuote(quote){
   $("#quote").addClass("executed");
   $("#quote").removeClass("reset");
   $("#image").toggleClass("fade");
-
-  console.log('Image '+quote.id+' Added! : ' + Date.now());
 };
 
 
@@ -53,12 +50,9 @@ function removeQuote() {
 
   //Remove old quote
   $("#quote").html("");
-  console.log('Quote '+elementToBeRemoved.id+' Removed! : '+Date.now());
 
   //Remove old image
   elementToBeRemoved.parentNode.removeChild(elementToBeRemoved);
-  console.log('Image '+elementToBeRemoved.id+' Removed! : '+Date.now());
-
 }
 
 
