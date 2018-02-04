@@ -26,7 +26,7 @@
  },
  {
   "id":6,
-  "text":"Done is better than perfect!",
+  "text":"DONE is better than perfect!",
   "image":"/images/waiting-arnie.jpg"
  },
  {
@@ -37,7 +37,7 @@
  {
   "id":8,
   "text":"What would Marty do?",
-  "image":"/images/marty.png"
+  "image":"/images/cagan.png"
  },
  {
   "id":9,
@@ -47,11 +47,16 @@
  {
   "id":10,
   "text":"Keep scope down!",
-  "image":"/images/no.png"
+  "image":"/images/scopecreep.jpg"
  },
  {
   "id":11,
   "text":"Would your PM approve?",
   "image":"/images/smiling2.png"
+ },
+ {
+  "id":12,
+  "text":"Fail and move on!",
+  "image":"/images/youtried.png"
  }
 ]
